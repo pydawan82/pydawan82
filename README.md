@@ -5,8 +5,8 @@
 
 Programming languages
 ---------------------
-- Java expert
+- ☕ Java expert
 - Kotlin enjoyer
-- Python hater (secretly loving it)
+- 🐍 Python hater (secretly loving it)
 - Javascript amateur
-- Dart & Flutter enthusiast
+- 🎯 Dart & 🐦 Flutter enthusiast
