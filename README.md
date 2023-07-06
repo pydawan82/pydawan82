@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Birtles
 - 👀 I’m interested in AI, Machine Learning and more generally Computer Science and Math
-- 🌱 I’m currently learning Artificial Intelligence at ULiège
+- 🌱 Junior IO Software Engineer at Euresys
 - 📫 How to reach me: dbirltes@hotmail.com
 
 Programming languages
